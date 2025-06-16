@@ -1,4 +1,5 @@
 alias gcln="git clone"
+alias gst="git status"
 alias ga="git add"
 alias gcmt="git commit"
 alias branch="git checkout"
